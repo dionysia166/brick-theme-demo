@@ -1,4 +1,4 @@
-# Custom WordPress Theme - Static Version
+# Custom WordPress Theme
 
 This repository contains a static version of a WordPress theme I designed and developed for a bricklaying business. It serves as a demonstration of my original design and showcases the theme's functionality and visual style.
 
